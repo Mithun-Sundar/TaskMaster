@@ -1,7 +1,8 @@
 body {
-    background: #0d1521;
+    background: aliceblue;
     font-family: tahoma;
     color: #989898;
+    /* margin: 20% 0; */
 }
 
 #todo-table {
